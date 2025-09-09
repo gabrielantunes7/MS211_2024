@@ -4,7 +4,7 @@ This repository contains computational projects developed in 2024 for the **Nume
 
 ## 📂 Repository Structure  
 
-- **`cholesky.py`** → Code for **Project I** (Cholesky Factorization).  
+- **`projetoI_calcnum.py`** → Code for **Project I** (Cholesky Factorization).  
 - **`projetoII_calcnum.py`** → Code for **Project II** (ODE Solvers and Population Growth Modeling).  
 - **`PCI_247844_281199.pdf`** → Report for Project I.  
 - **`PCII_247844_281199.pdf`** → Report for Project II.  
@@ -23,7 +23,7 @@ Implement and analyze the **Cholesky decomposition**, which factorizes a symmetr
 - Comparison with analytical results.  
 
 **Usage:**  
-The script `cholesky.py` demonstrates the factorization process using example matrices.  
+The script `projetoI_calcnum.py` demonstrates the factorization process using example matrices.  
 
 ---
 
